@@ -1,0 +1,6 @@
+C:\Users\Alkesh kumar\source\repos\GetHardwareInfo\GetHardwareInfo\bin\Debug\GetHardwareInfo.exe.config
+C:\Users\Alkesh kumar\source\repos\GetHardwareInfo\GetHardwareInfo\bin\Debug\GetHardwareInfo.exe
+C:\Users\Alkesh kumar\source\repos\GetHardwareInfo\GetHardwareInfo\bin\Debug\GetHardwareInfo.pdb
+C:\Users\Alkesh kumar\source\repos\GetHardwareInfo\GetHardwareInfo\obj\Debug\GetHardwareInfo.csprojAssemblyReference.cache
+C:\Users\Alkesh kumar\source\repos\GetHardwareInfo\GetHardwareInfo\obj\Debug\GetHardwareInfo.exe
+C:\Users\Alkesh kumar\source\repos\GetHardwareInfo\GetHardwareInfo\obj\Debug\GetHardwareInfo.pdb
